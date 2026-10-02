@@ -20,6 +20,7 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 | [0875-koko-eating-bananas](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kaushikkarishma/leetcode-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kaushikkarishma/leetcode-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0875-koko-eating-bananas) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kaushikkarishma/leetcode-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kaushikkarishma/leetcode-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 | [0229-majority-element-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0912-sort-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kaushikkarishma/leetcode-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Queue
 |  |
 | ------- |
@@ -192,4 +196,12 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0098-validate-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kaushikkarishma/leetcode-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/kaushikkarishma/leetcode-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
