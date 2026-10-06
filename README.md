@@ -14,6 +14,7 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0229-majority-element-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0312-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0704-binary-search) |
@@ -127,6 +128,7 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 | ------- |
 | [0118-pascals-triangle](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0312-burst-balloons](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0312-burst-balloons) |
 | [0509-fibonacci-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Database
