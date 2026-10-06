@@ -120,12 +120,14 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 | ------- |
 | [0007-reverse-integer](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kaushikkarishma/leetcode-daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0312-burst-balloons](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0312-burst-balloons) |
@@ -161,6 +163,7 @@ A collection of questions - Created using [LeetHub v2](https://github.com/arunbh
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kaushikkarishma/leetcode-daily/tree/master/0509-fibonacci-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
